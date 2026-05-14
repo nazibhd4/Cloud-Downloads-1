@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2618",
+  "folder": "YouTube__watch_20260515040548_5db4eb",
+  "base_name": "Fieber_f_hlt_sich_schrecklich_an_ist_aber_eigentlich_fantastisch_Q4J5bZayjJs_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/nazibhd4/Cloud-Downloads-1/releases/tag/co-releases-v1-2618",
+  "files": [
+    {
+      "name": "Fieber_f_hlt_sich_schrecklich_an_ist_aber_eigentlich_fantastisch_Q4J5bZayjJs_720p.mp4",
+      "url": "https://github.com/nazibhd4/Cloud-Downloads-1/releases/download/co-releases-v1-2618/Fieber_f_hlt_sich_schrecklich_an_ist_aber_eigentlich_fantastisch_Q4J5bZayjJs_720p.mp4",
+      "api_url": "https://api.github.com/repos/nazibhd4/Cloud-Downloads-1/releases/assets/420342889",
+      "id": 420342889,
+      "size": 152047797,
+      "download_count": 0
+    }
+  ]
+}
